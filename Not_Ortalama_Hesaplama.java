@@ -6,8 +6,10 @@
 import java.util.*;
 import java.util.Scanner;
 
-public class Not_Ortalama_Hesaplama {
-	public static void main(String[] args) {
+public class Not_Ortalama_Hesaplama 
+{
+	public static void main(String[] args) 
+	{
 		Scanner scan = new Scanner(System.in);
 
 		// Degiskenleri olustur
