@@ -6,8 +6,10 @@
 import java.util.*;
 import java.util.Scanner;
 
-public class Vcuut_Kitle_Indeksi_Hesaplama {
-	public static void main(String[] args) {
+public class Vcuut_Kitle_Indeksi_Hesaplama 
+{
+	public static void main(String[] args) 
+	{
 		Scanner scan = new Scanner(System.in);
 
 		System.out.print("Boyunuzu giriniz (Metre cinsinde): ");
