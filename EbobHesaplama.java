@@ -6,8 +6,10 @@
 import java.util.*;
 import java.util.Scanner;
 
-public class EbobHesaplama {
-	public static void main(String[] args) {
+public class EbobHesaplama 
+{
+	public static void main(String[] args) 
+	{
 		Scanner scan = new Scanner(System.in);
 
 		System.out.print("n1 sayisini giriniz: ");
