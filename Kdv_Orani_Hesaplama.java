@@ -6,8 +6,10 @@ Source: https://academy.patika.dev/courses/java101/pratik-kdv-hesaplama
 import java.util.*;
 import java.util.Scanner;
 
-public class Kdv_Orani_Hesaplama {
-	public static void main(String[] args) {
+public class Kdv_Orani_Hesaplama 
+{
+	public static void main(String[] args) 
+	{
 		Scanner scan = new Scanner(System.in);
 
 		System.out.print("Luften urun fiyatini giriniz: ");
