@@ -6,8 +6,10 @@
 import java.util.*;
 import java.util.Scanner;
 
-public class Daire_Alani_ve_Cevre_Hesaplama {
-	public static void main(String[] args) {
+public class Daire_Alani_ve_Cevre_Hesaplama 
+{
+	public static void main(String[] args) 
+	{
 		Scanner scan = new Scanner(System.in);
 
 		double pi = 3.14;
