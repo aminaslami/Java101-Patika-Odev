@@ -10,6 +10,7 @@ public class Vcuut_Kitle_Indeksi_Hesaplama
 {
 	public static void main(String[] args) 
 	{
+		// Kullanıcdan veri alma
 		Scanner scan = new Scanner(System.in);
 
 		System.out.print("Boyunuzu giriniz (Metre cinsinde): ");
