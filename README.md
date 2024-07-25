@@ -1,5 +1,8 @@
 ### Soruce: https://academy.patika.dev/courses/java101
 
+### Teacher
+1. Mahmut Mustafa Çetindağ 
+
 #### Author: 
-1. Patika Dev
-2. Amin Aslami
+2. Patika Dev
+3. Amin Aslami
