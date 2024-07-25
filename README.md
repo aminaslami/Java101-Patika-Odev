@@ -7,7 +7,7 @@
 2. Patika Dev
 3. Amin ASLAMI
 
-##### Genral Information
+#### Genral Information
 4. Java101
 5. 14558 learners
 6. 276 points to earn
