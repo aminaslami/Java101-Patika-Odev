@@ -1,4 +1,4 @@
-### Soruce: https://academy.patika.dev/courses/java101
+### Source: https://academy.patika.dev/courses/java101
 
 ### Teacher
 1. Mahmut Mustafa ÇETİNDAĞ
