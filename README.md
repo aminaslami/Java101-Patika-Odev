@@ -1,7 +1,7 @@
 ### Soruce: https://academy.patika.dev/courses/java101
 
 ### Teacher
-1. Mahmut Mustafa Çetindağ 
+1. Mahmut Mustafa ÇETİNDAĞ
 
 #### Author: 
 2. Patika Dev
